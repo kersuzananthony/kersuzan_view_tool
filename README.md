@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+KersuzanViewTool::Renderer.copyright 'Kersuzan Anthony', 'All rights reserved'
+```
 
 ## Development
 
